@@ -16,7 +16,7 @@ Fills each with templated treatment notes & goals
 Includes a GUI with a dropdown to view any student’s goals instantly
 
 🖥️ How to Use:
-No coding required. Just download the compiled version from:
+No coding required. Just download the compiled version I will email you on my website:
 👉 https://taylorferderer.com/iep-helper
 
 If you're comfortable with Python, feel free to explore the code here and modify it to suit your workflow.
